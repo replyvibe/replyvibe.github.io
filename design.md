@@ -41,3 +41,10 @@ Components must not copy XRadar branding or its blue palette. Background glows m
 - [x] Supplied product screenshots included locally.
 
 Browser QA is pending if the execution environment cannot route the local preview.
+
+## Motion redesign
+The current page must use code-rendered product UI instead of the original three promotional images. Hero composition follows the supplied XRadar reference with a purple palette, a floating X tile, pill actions, and a browser-framed live concept demo. The 12-second local MP4 is a silent animated concept walkthrough, not a recording of the released extension.
+
+All continuous decorative motion must pause from the fixed motion control and must respect reduced-motion preferences. Video must provide native playback controls, pause outside the viewport, and include a text equivalent. Manual tone selection must stop automatic cycling. Copy must copy the complete selected reply, including during a typing animation. Activity data must be labeled illustrative.
+
+Validation: local browser confirmed zero image elements, 12-second video duration, 1280-pixel video width, active video playback, and global pause behavior. Remaining unchecked accessibility criteria above remain release checks.
