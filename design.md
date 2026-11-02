@@ -54,3 +54,6 @@ Removed the fictional post, generated sample replies, simulated activity metrics
 
 ## Language removal
 Removed all language-support claims, the language feature card, the dedicated language section, and language references in navigation, metadata, and FAQs per the user's correction. Reflowed feature cards to fill the available space. Pricing requires confirmed plan names, amounts, billing periods, and reply limits; do not invent pricing.
+
+## Video-reference redesign
+Analyzed the complete 8.98-second 720x1080 supplied reference at half-second intervals (18 frames). Its cream canvas, fixed icon rail, bold compact headings, purple/orange/red/brown cards, overlapping scroll motion, and bottom pill inspired the new editorial layout. Replaced the prior dark page with a complete light website using code-rendered artwork and the confirmed product content. Kept Free at 7 lifetime replies and Pro at $9/month with 3,000 individual variations. No language claims or fabricated social proof. Navigation, FAQs, motion pause and mobile overflow were checked in the local browser; mobile overflow was fixed. Reduced-motion disables sticky card transitions and decorative animation. Current source of truth: dist/editorial.css and dist/app.js.
