@@ -51,3 +51,6 @@ Validation: local browser confirmed zero image elements, 12-second video duratio
 
 ## Product-content revision
 Removed the fictional post, generated sample replies, simulated activity metrics, and concept video. Replaced them with a tone overview, supported-language section, and descriptions of usage tracking, weekly activity, and reply history grounded in the supplied product materials. No customer counts, pricing, reviews, or usage figures are asserted. Prior demo/video QA notes describe superseded versions. Motion controls now apply to decorative CSS animations only.
+
+## Language removal
+Removed all language-support claims, the language feature card, the dedicated language section, and language references in navigation, metadata, and FAQs per the user's correction. Reflowed feature cards to fill the available space. Pricing requires confirmed plan names, amounts, billing periods, and reply limits; do not invent pricing.
