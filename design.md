@@ -48,3 +48,6 @@ The current page must use code-rendered product UI instead of the original three
 All continuous decorative motion must pause from the fixed motion control and must respect reduced-motion preferences. Video must provide native playback controls, pause outside the viewport, and include a text equivalent. Manual tone selection must stop automatic cycling. Copy must copy the complete selected reply, including during a typing animation. Activity data must be labeled illustrative.
 
 Validation: local browser confirmed zero image elements, 12-second video duration, 1280-pixel video width, active video playback, and global pause behavior. Remaining unchecked accessibility criteria above remain release checks.
+
+## Product-content revision
+Removed the fictional post, generated sample replies, simulated activity metrics, and concept video. Replaced them with a tone overview, supported-language section, and descriptions of usage tracking, weekly activity, and reply history grounded in the supplied product materials. No customer counts, pricing, reviews, or usage figures are asserted. Prior demo/video QA notes describe superseded versions. Motion controls now apply to decorative CSS animations only.
